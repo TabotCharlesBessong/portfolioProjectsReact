@@ -1,3 +1,4 @@
+import React from 'react'
 import { useContext } from "react";
 import { CalcContext } from "../context/CalcContext";
 import { Textfit } from "react-textfit";
