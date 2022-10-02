@@ -1,8 +1,13 @@
 import React from 'react'
+import { Wrapper } from './components'
 
 const App = () => {
 	return (
-		<div>App</div>
+		<div>
+			<Wrapper>
+				<h1>Hello </h1>
+			</Wrapper>
+		</div>
 	)
 }
 
